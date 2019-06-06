@@ -9,7 +9,7 @@ applications:
   buildpack: sdk-for-nodejs
   memory: 256M
   instances: 1
-  random-route: false
+  random-route: true
   services:
   - wdui-discovery-service
 env:
