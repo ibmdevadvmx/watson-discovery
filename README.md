@@ -101,7 +101,7 @@ De la carpeta Seleccionamos todos los archivos que se encuentran en la carpeta d
 Una vez que hemos cargado los documentos, procederemos a modificar el archivo .env que se encuentra en la carpeta de nuestro repositorio, agregando las credenciales correspondientes a nuestra colección.
 8. En el apartado superior derecho de la página principal de nuestra colección, encontraremos un ícono que dice “API”, al poner el mouse sobre el, nos muestra un mensaje que dice “View API details” o “Ver detalles de API”. Le damos clic para copiar cada una de las credenciales.
 
-**Nota importante: Para obtener el apikey de Discovery y la URL, accedemos a la página del servicio de discovery antes de lanzar la herramienta.**
+  **Nota importante: Para obtener el apikey de Discovery y la URL, accedemos a la página del servicio de discovery antes de lanzar la herramienta.**
 
 9. Accedemos a la carpeta de nuestro repositorio clonado “watson-discovery-ui” y accedemos al archivo “env.sample” y compiamos todo el contenido de texto.
 10. Abrimos un nuevo documento de texto pegamos lo que compiamos del archivo anterior y modificamos las credenciales, agregando las que copiamos de nuestra colección de datos.
