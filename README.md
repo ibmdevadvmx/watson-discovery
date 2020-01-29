@@ -73,12 +73,12 @@ IBM Developer Advocates Team
 De esta forma, lograrás ver en el documento JSON que se genera de la consulta, los diferentes campos, como entidades (entities), conceptos (concepts) y sentimientos (sentiment) de la colección de datos que se consultó.
 
 ## Crear una consulta.
-Este paso puedes realizarlo en un editor de textos.
-Primero necesitamos escribir: "enriched_text." <!-- seguido de un punto. -->
-Después escribimos el nombre del objeto que deseemos buscar.(entities, concepts, sentiment, keywords). En este caso, buscaremos en "entities:" <!-- Seguido de dos puntos. -->
-Ahora escribimos el nombre del valor que se busca, entre paréntesis (text, label, type). En este caso, utilizaremos "text:" <!-- seguido de dos puntos. -->
-Finalmente, después de los dos puntos, escibimos el valor que deseamos buscar. Para esta ocasión, utilizaremos "tormenta" y cerramos paréntesis.
-La constulta entonces debería quedar así:
+Este paso puedes realizarlo en un editor de textos.<br>
+Primero necesitamos escribir: "enriched_text." <!-- seguido de un punto. --><br>
+Después escribimos el nombre del objeto que deseemos buscar.(entities, concepts, sentiment, keywords). En este caso, buscaremos en "entities:" <!-- Seguido de dos puntos. --><br>
+Ahora escribimos el nombre del valor que se busca, entre paréntesis (text, label, type). En este caso, utilizaremos "text:" <!-- seguido de dos puntos. --><br>
+Finalmente, después de los dos puntos, escibimos el valor que deseamos buscar. Para esta ocasión, utilizaremos "tormenta" y cerramos paréntesis.<br>
+La constulta entonces debería quedar así:<br>
 **enriched_text.entities:(text:tormenta)**
 
 ## Realizar una consulta.
